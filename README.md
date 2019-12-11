@@ -1,2 +1,2 @@
 # artificial-intelligence-made-functional
-Notes and sample projects for creating production-grade artificial intelligence products with F# and Jupyter Notebooks with .NET Core
+Create AI/ML systems in the cloud through Azure Notebooks, F# & .NET Core with DevOps environments 
