@@ -64,7 +64,16 @@ To setup your automation and your pipeline(s), you can go to [Azure DevOps](http
 What's MLOps and how its vision differs from day-to-day DevOps?
 ===================
 
+MLOps empowers data scientists and app developers to help bring ML models to production. MLOps enables you to track / version / audit / certify / re-use every asset in your ML lifecycle and provides orchestration services to streamline managing this lifecycle. 
 
+
+* Data/model versioning != code versioning - how to version data sets as the schema and origin data change
+* Digital audit trail requirements change when dealing with code + (potentially customer) data
+* Model reuse is different than software reuse, as models must be tuned based on input data / scenario.
+* To reuse a model you may need to fine-tune / transfer learn on it (meaning you need the training pipeline)
+* Models tend to decay over time & you need the ability to retrain them on demand to ensure they remain useful in a production context.
+
+(This comes from [here](https://github.com/microsoft/MLOps)
 
 Recommended resources
 ===================
