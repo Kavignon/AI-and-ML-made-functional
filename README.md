@@ -46,13 +46,19 @@ The repository will use old and current machine learning competitions that are f
 
 Also, you'll also be able to find machine learning notes on courses that I will take online with resources such as [Coursera](https://www.google.com/search?client=firefox-b-d&q=coursera) or [Udacity](https://www.udacity.com/). The vast majority of the courses should be with Python, but I'll make sure, to the best of my abilities, to refactor the code samples to showcase only F#.
 
-How can you get started today for AI/ML projects with F# and Azure?
-===================
-
-
 Why should we go for automation in data science?
 ===================
+Like in any field of software engineering/development, we want to make sure we get the best value for our buck. In this case, you want to make sure you avoid repetitive tasks and you can spend your time on things that matter, not normalize a portion of your data for the tenth time in the same day **manually**.
 
+
+How can you get started today for AI/ML projects with F# and Azure?
+===================
+To get yourself started, you can already get a [Jupyter Notebook](https://jupyter.org/) environment on the cloud with [Azure Notebook](https://notebooks.azure.com/) and use F# as your programming language. Once you've created your first notebook, you can get started with your first machine learning project.
+
+To setup your automation and your pipeline(s), you can go to [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) to setup your DevOps which we'll use in this repository to set up your MLOps environment.
+
+
+(As I get more and more familiar with MLOps setups, I will document this readme more and more to reflect what you need to do here for a complete MLOps environment).
 
 
 What's MLOps and how its vision differs from day-to-day DevOps?
