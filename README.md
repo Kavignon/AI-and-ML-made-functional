@@ -1,5 +1,5 @@
 # AI & ML made functional
-Create AI/ML systems in the cloud through Azure Notebooks, F# & .NET Core with DevOps environments 
+Create AI/ML systems in the cloud through Azure Notebooks, F# & .NET Core with MLOps environments 
 
 
 FAQ
@@ -73,7 +73,17 @@ MLOps empowers data scientists and app developers to help bring ML models to pro
 * To reuse a model you may need to fine-tune / transfer learn on it (meaning you need the training pipeline)
 * Models tend to decay over time & you need the ability to retrain them on demand to ensure they remain useful in a production context.
 
-(This comes from [here](https://github.com/microsoft/MLOps)
+(This comes from [here](https://github.com/microsoft/MLOps))
 
 Recommended resources
 ===================
+
+* Microsoft MLOps [repository](https://github.com/microsoft/MLOps)
+* Microsoft Python MLOps [repository](https://github.com/microsoft/MLOpsPython)
+* Microsoft Recommenders [repository](https://github.com/Microsoft/Recommenders)
+* [Machine Learning course](https://www.coursera.org/learn/machine-learning) offered by Standford at Coursera
+* [Deep Learning certification](https://www.coursera.org/specializations/deep-learning) offered by deeplearning.ai at Coursera
+* [Introduction to machine learning course](https://www.kaggle.com/learn/intro-to-machine-learning) offered by Kaggle
+* [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) offered by Kaggle
+* [Data Visualization](https://www.kaggle.com/learn/data-visualization) offered by Kaggle
+* [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) offered by Kaggle
