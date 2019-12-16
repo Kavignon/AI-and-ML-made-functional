@@ -88,3 +88,7 @@ Recommended resources
 * [Data Visualization](https://www.kaggle.com/learn/data-visualization) offered by Kaggle
 * [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) offered by Kaggle
 * [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned#machine-learning-links-and-lessons-learned)
+* [Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104) offered by Udacity
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) offered by Udacity
+* [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741) offered by Georgia Tech @ Udacity
+* [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) offered by Georgia Tech @ Udacity
