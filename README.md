@@ -87,3 +87,4 @@ Recommended resources
 * [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) offered by Kaggle
 * [Data Visualization](https://www.kaggle.com/learn/data-visualization) offered by Kaggle
 * [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) offered by Kaggle
+* [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned#machine-learning-links-and-lessons-learned)
